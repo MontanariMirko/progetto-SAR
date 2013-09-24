@@ -1,0 +1,29 @@
+.nome{
+	color: #B81900;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.data{
+	color: blue;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-size: 10px;
+	margin-left: 20px;
+	font-weight: bold;
+}
+
+.testo{
+	color: #000000;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+.div_messaggio{
+	margin-bottom: 5px;
+	border-top: 1px;
+	border-top-style: solid;
+	border-top-color: grey;
+}

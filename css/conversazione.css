@@ -1,0 +1,45 @@
+#scrivi_messaggio{
+	position: fixed;
+	margin-left: 220px;
+	bottom: 0px;
+	width: 100%;
+	height: 110px;
+	background-color: #CCCCCC;
+	border-top: 1px solid #000000;
+}
+
+#storico{
+	margin-left: 220px;
+	margin-bottom: 120px;
+	top: 60px;
+}
+
+.mittente{
+	color: #B81900;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.data{
+	color: blue;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-size: 10px;
+	margin-left: 20px;
+	font-weight: bold;
+}
+
+.testo{
+	color: #000000;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+	font-size: 18px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+.messaggio{
+	margin-bottom: 5px;
+	border-top: 1px;
+	border-top-style: solid;
+	border-top-color: grey;
+}

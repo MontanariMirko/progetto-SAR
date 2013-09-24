@@ -1,0 +1,14 @@
+a{
+	color:black;
+}
+a.select{
+	color:black;
+	font-weight:bold;
+}
+li.select{
+	background-color:#b9d9b9;
+}
+li:hover{
+	background-color:#e3fde3;
+}
+

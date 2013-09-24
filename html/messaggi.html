@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Social Uni - Messaggi</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<link rel="stylesheet" href="../css/li-scroller.css" type="text/css" media="screen" /> 
+		<link rel="stylesheet" href="../css/menu.css" type="text/css" media="screen" /> 
+		<link rel="stylesheet" type="text/css" href="../css/muro.css" />
+		<link rel="stylesheet" href="../css/ui-lightness/jquery-ui-1.9.0.custom.css" type="text/css" media="screen" /> 
+		<script type="text/javascript" src="../js/jquery-1.8.2.min.js"></script>
+		<script type="text/javascript" src="../js/jquery.li-scroller.1.0.js"></script>	
+		<script type="text/javascript" src="../js/jquery.cookie.js"></script>
+		<script type="text/javascript" src="../js/jquery-ui-1.9.0.custom.js"></script>
+		<script type="text/javascript" src="../js/messaggi.js"></script> 	
+		<script type="text/javascript" src="../js/controllo.js"></script> 			
+		
+		
+	</head>
+		<body style="margin:0px;">
+  <div style="background-color:#339966; padding:5px; position:fixed; height:30px" id="news">
+  </div>
+
+  <div id="menu" style="width:200px; height:100%; border-right-color: grey; border-right-width:2px; border-right-style: dotted; margin:10px; float:left; position:fixed; top:45px">
+  	<div id="nome_utente"><b>Bentornato
+  	<br><span id="benvenuto"> </span></b>
+  	</div>
+  	<br>
+  	<ul>
+  	<li><a href="bacheca.html" id="bacheca">Bacheca</a></li>
+  	<li><a href="#" id="profilo" onclick="profilo()">Profilo</a></li>
+  	<li><a href="richieste.html" id="richieste">Richieste</a> <span id="nrichiesta" style="background-color:red; color:white"></span></li>
+  	<li><a href="novita.html" id="novita">Novit&agrave;</a> <span id="nnovita" style="background-color:red; color:white"></span></li>
+  	<li class="select"><a href="messaggi.html" id="messaggi" class="select">Messaggi</a> <span id="nmessaggi" style="background-color:red; color:white"></span></li>
+  	<li><a href="amici.html" id="amici">Trova amici</a></li>
+  	<li><a href="#" id="rete" onclick="rete()">Rete sociale</a></li>
+  	<li><a href="bacon.html" id="bacon">Numero di Bacon</a></li>
+  	<li><a href="#" id="logout" onclick="logout()">Esci</a></li>
+  	</ul>
+  </div>
+  <div id="muro" style="float:left; width:100%; margin:60px 60px 0px 0px;">
+  	<div style="margin-left: 220px;">
+  		<b>Messaggi</b><br><br>
+  		Clicca sul seguente bottone per selezionare una persona con cui avviare una conversazione, oppure seleziona una delle
+  		conversazioni se presenti.
+  		<br><br>
+	  	<button id="scegli_utente">Crea Nuova Conversazione</button>
+	  	<div id="div_scelta_utente" style="display: none;" class="ui-widget">
+	  		<br>
+	  		<input type="text" id="destinatario" />
+	  		<button id="crea_conversazione">Vai</button>
+	  	</div>
+	  	<div id="conversazioni_aperte"></div>
+  	</div> 
+
+  </div>
+</body>
+</html>

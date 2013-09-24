@@ -1,0 +1,33 @@
+<html>  
+  <head>    
+    <title>Social Uni - Home     
+    </title>  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  </head>  
+<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.cookie.js"></script> 
+<script type="text/javascript" src="js/login.js"></script> 
+<script type="text/javascript">
+	$(document).ready(function() {
+		if($.cookie('username') != null){
+			$(window.location).attr('href', 'html/bacheca.html');
+		}
+	});
+</script>	
+    
+ <body style="margin:0px;"  onload="document.getElementById('username').focus();">
+  <div style="background-color:#339966; padding:5px">
+    	Username: <input type="text" id="username" maxlength="20" size="23">
+    	Password: <input type="password" id="password" maxlength="23" size="23">
+    	<input type="submit" value="Login" id="login">
+    	<span id="messaggio_errore" style="margin: 20px"></span>
+    	<span style="float: right"><a href="html/registrazione.html"><span style="color: red"><b>Registrati</b></span></a></span>
+    </div>
+    <div align="center">
+    	<div style="position:absolute" align="left">
+    		<b>Progetto realizzato da<br>Paganelli Alberto & Montanari Mirko</b>
+    	</div>
+      <img src="img/logo.jpg">
+    </div>
+  </body>
+</html>

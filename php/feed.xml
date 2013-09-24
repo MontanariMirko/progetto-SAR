@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:skyit="http://www.sky.it/RSS" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+	<title>Sky Tg24 - Sky.it</title>
+	<link>http://www.sky.it/</link>
+	<description>Resta aggiornato con le ultime notizie di Sky Tg24</description>
+	<language>it</language>
+	<copyright>Copyright 2009 - Sky Italia s.r.l</copyright>
+	<pubDate>Tue, 08 Jan 2013 16:11:04 +0100</pubDate>
+	<category>Sky.it - tg24</category>
+	<image>
+	  <title>Sky.it - tg24</title>
+	  <url>http://www.sky.it/static/images/sito/logoSky_2.gif</url>
+	  <link>http://www.sky.it/</link>
+	</image>
+	
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/SkyitTg24" /><feedburner:info uri="skyittg24" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://feeds.my.aol.com/add.jsp?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://o.aolcdn.com/favorites.my.aol.com/webmaster/ffclient/webroot/locale/en-US/images/myAOLButtonSmall.gif">Subscribe with My AOL</feedburner:feedFlare><feedburner:feedFlare href="http://www.bloglines.com/sub/http://feeds.feedburner.com/SkyitTg24" src="http://www.bloglines.com/images/sub_modern11.gif">Subscribe with Bloglines</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2FSkyitTg24" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+		<title><![CDATA[L'Unione europea contro l'Imu: "Non è equa"]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/o96gJpEtX0o/unione_europea_imu_critiche_equita.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/economia/2013/01/08/unione_europea_imu_critiche_equita.html</guid>
+		<category>economia</category>
+		<pubDate>Tue, 08 Jan 2013 15:47:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/economia/2013/01/08/unione_europea_imu_critiche_equita.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/mondo/2012/10/12/unione_europea_nobel_pace_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/economia/2013/01/08/unione_europea_imu_critiche_equita.html"&gt;L'Unione europea contro l'Imu: &amp;quot;Non &amp;egrave; equa&amp;quot;&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Secondo l'annuale rapporto su Occupazione e sviluppi sociali alcuni aspetti della tassa sugli immobili andrebbero migliorati per renderla pi&amp;ugrave; progressiva. Tra i suggerimenti l'aggiornamento dei valori catastali&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/imu_1.html"&gt;Imu&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/tasse_1.html"&gt;Tasse&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/unione_europea_1.html"&gt;Unione Europea&lt;/a&gt;
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/o96gJpEtX0o" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[L'Unione europea contro l'Imu: "Non è equa"]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Secondo l'annuale rapporto su Occupazione e sviluppi sociali alcuni aspetti della tassa sugli immobili andrebbero migliorati per renderla pi&ugrave; progressiva. Tra i suggerimenti l'aggiornamento dei valori catastali]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/mondo/2012/10/12/unione_europea_nobel_pace_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/economia/2013/01/08/unione_europea_imu_critiche_equita.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Carceri, l'Europa condanna l'Italia per il sovraffollamento]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/-QLhE81-yOU/corte_strasburgo_condanna_italia_sovraffollamento_carceri.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/cronaca/2013/01/08/corte_strasburgo_condanna_italia_sovraffollamento_carceri.html</guid>
+		<category>cronaca</category>
+		<pubDate>Tue, 08 Jan 2013 14:18:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/cronaca/2013/01/08/corte_strasburgo_condanna_italia_sovraffollamento_carceri.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/cronaca/2010/01/27/carcere_sbarra_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/cronaca/2013/01/08/corte_strasburgo_condanna_italia_sovraffollamento_carceri.html"&gt;Carceri, l'Europa condanna l'Italia per il sovraffollamento&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Secondo la Corte di Strasburgo il nostro paese viola i diritti dei detenuti tenendoli in celle dove hanno a disposizione meno di 3 metri quadrati. Nella sentenza i giudici rilevano che il problema &amp;egrave; strutturale. &lt;a href="http://tg24.sky.it/tg24/cronaca/2009/08/05/carceri_sovraffollate_italia_deve_risarcire_detenuto_.html" target="_self"&gt;L'Italia era gi&amp;agrave; stata condannata nel 2009&lt;/a&gt;&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/carceri_1.html"&gt;Carceri&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/carceri_affollate_1.html"&gt;Carceri Affollate&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/corte_dei_diritti_dell_uomo_1.html"&gt;Corte Dei Diritti Dell'uomo&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/detenuti_1.html"&gt;Detenuti&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/sovraffollamento_carcerario_1.html"&gt;Sovraffollamento Carcerario&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/strasburgo_1.html"&gt;Strasburgo&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/-QLhE81-yOU" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Carceri, l'Europa condanna l'Italia per il sovraffollamento]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Secondo la Corte di Strasburgo il nostro paese viola i diritti dei detenuti tenendoli in celle dove hanno a disposizione meno di 3 metri quadrati. Nella sentenza i giudici rilevano che il problema &egrave; strutturale. <a href="http://tg24.sky.it/tg24/cronaca/2009/08/05/carceri_sovraffollate_italia_deve_risarcire_detenuto_.html" target="_self">L'Italia era gi&agrave; stata condannata nel 2009</a>]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/cronaca/2010/01/27/carcere_sbarra_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/cronaca/2013/01/08/corte_strasburgo_condanna_italia_sovraffollamento_carceri.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[David Bowie, dopo dieci anni arriva il nuovo singolo]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/_V4LrqDebSI/david_bowie_where_are_we_now_singolo_nuovo_album.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/spettacolo/2013/01/08/david_bowie_where_are_we_now_singolo_nuovo_album.html</guid>
+		<category>spettacolo</category>
+		<pubDate>Tue, 08 Jan 2013 14:12:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/spettacolo/2013/01/08/david_bowie_where_are_we_now_singolo_nuovo_album.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/mag/musica/2013/01/07/00_david_bowie_getty_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/spettacolo/2013/01/08/david_bowie_where_are_we_now_singolo_nuovo_album.html"&gt;David Bowie, dopo dieci anni arriva il nuovo singolo&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Nel giorno del suo 66esimo compleanno il Duca Bianco pubblica in rete &lt;em&gt;Where are we now&lt;/em&gt;, canzone che anticipa l'album &lt;em&gt;The Next Day&lt;/em&gt;, in uscita il prossimo 11 marzo. Guarda il video&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/cantanti_1.html"&gt;Cantanti&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/david_bowie_1.html"&gt;David Bowie&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/musica_1.html"&gt;Musica&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/the_next_day_1.html"&gt;The Next Day&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/where_are_we_now_1.html"&gt;Where Are We Now&lt;/a&gt;
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/_V4LrqDebSI" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[David Bowie, dopo dieci anni arriva il nuovo singolo]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Nel giorno del suo 66esimo compleanno il Duca Bianco pubblica in rete <em>Where are we now</em>, canzone che anticipa l'album <em>The Next Day</em>, in uscita il prossimo 11 marzo. Guarda il video]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/mag/musica/2013/01/07/00_david_bowie_getty_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/spettacolo/2013/01/08/david_bowie_where_are_we_now_singolo_nuovo_album.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Casini: "Tra Lega e Pdl è l'accordo della disperazione"]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/Q5kuQ7EbCBk/pier_ferdinando_casini_udc_mario_monti_centro_liste.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/politica/2013/01/08/pier_ferdinando_casini_udc_mario_monti_centro_liste.html</guid>
+		<category>politica</category>
+		<pubDate>Tue, 08 Jan 2013 13:46:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/08/pier_ferdinando_casini_udc_mario_monti_centro_liste.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2013/01/08/pierferdinando_casini_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/08/pier_ferdinando_casini_udc_mario_monti_centro_liste.html"&gt;Casini: &amp;quot;Tra Lega e Pdl &amp;egrave; l'accordo della disperazione&amp;quot;&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Il leader centrista boccia l'intesa tra il Cavaliere e Maroni: "Non sono in grado di scegliere un candidato e si vergognano di Berlusconi". Poi ammette che ci sono ritardi sulla formazione delle liste centriste "per l'inesperienza di alcuni"&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/elezioni_2013_1.html"&gt;Elezioni 2013&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/elezioni_politiche_1.html"&gt;Elezioni Politiche&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/mario_monti_1.html"&gt;Mario Monti&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/pier_ferdinando_casini_1.html"&gt;Pier Ferdinando Casini&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/udc_1.html"&gt;Udc&lt;/a&gt;
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/Q5kuQ7EbCBk" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Casini: "Tra Lega e Pdl è l'accordo della disperazione"]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Il leader centrista boccia l'intesa tra il Cavaliere e Maroni: "Non sono in grado di scegliere un candidato e si vergognano di Berlusconi". Poi ammette che ci sono ritardi sulla formazione delle liste centriste "per l'inesperienza di alcuni"]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2013/01/08/pierferdinando_casini_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/politica/2013/01/08/pier_ferdinando_casini_udc_mario_monti_centro_liste.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Australia, paese in fiamme a causa del caldo record: le foto]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/Lqk4bXvyRoA/australia_tanzania_incendi_caldo_record.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/mondo/photogallery/2013/01/08/australia_tanzania_incendi_caldo_record.html</guid>
+		<category>mondo</category>
+		<pubDate>Tue, 08 Jan 2013 13:44:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/mondo/photogallery/2013/01/08/australia_tanzania_incendi_caldo_record.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/mondo/2013/01/08/australia_incendi_11_113x70.jpeg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/mondo/photogallery/2013/01/08/australia_tanzania_incendi_caldo_record.html"&gt;Australia, paese in fiamme a causa del caldo record: le foto&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Solo nel Nuovo Galles del Sud si contano quasi 100 incendi ma ben cinque zone dello Stato sono piegate dai roghi che in questi giorni si stanno sviluppando ovunque, alimentati da un forte vento e da temperature oltre i 40 gradi. LA GALLERY&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/australia_1.html"&gt;Australia&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/fotogallery_1.html"&gt;Fotogallery&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/incendi_1.html"&gt;Incendi&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/roghi_1.html"&gt;Roghi&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/tanzania_1.html"&gt;Tanzania&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/Lqk4bXvyRoA" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Australia, paese in fiamme a causa del caldo record: le foto]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Solo nel Nuovo Galles del Sud si contano quasi 100 incendi ma ben cinque zone dello Stato sono piegate dai roghi che in questi giorni si stanno sviluppando ovunque, alimentati da un forte vento e da temperature oltre i 40 gradi. LA GALLERY]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/mondo/2013/01/08/australia_incendi_11_113x70.jpeg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/mondo/photogallery/2013/01/08/australia_tanzania_incendi_caldo_record.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Condanne, età, mandati: così i partiti si danno le regole]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/btREztUI3Ds/criteri_candidablita_pd_pdl_monti_condannati_mandati.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/politica/2013/01/08/criteri_candidablita_pd_pdl_monti_condannati_mandati.html</guid>
+		<category>politica</category>
+		<pubDate>Tue, 08 Jan 2013 12:35:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/08/criteri_candidablita_pd_pdl_monti_condannati_mandati.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2010/03/09/montecitorio_aula_camera_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/08/criteri_candidablita_pd_pdl_monti_condannati_mandati.html"&gt;Condanne, et&amp;agrave;, mandati: cos&amp;igrave; i partiti si danno le regole&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Dopo la norma del governo sull' incandidabilit&amp;agrave;, anche i partiti fissano i loro criteri per l'accesso al Parlamento. Monti promette paletti pi&amp;ugrave; esigenti della legge, il Pd pu&amp;ograve; vantare un codice etico, il Pdl dice no a over 65 e a chi ha tradito Berlusconi&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/condannati_1.html"&gt;Condannati&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/giustizia_1.html"&gt;Giustizia&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/incandidabilita_1.html"&gt;Incandidabilit&amp;agrave;&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/mario_monti_1.html"&gt;Mario Monti&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/pd_1.html"&gt;Pd&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/pdl_1.html"&gt;Pdl&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/pier_luigi_bersani_1.html"&gt;Pier Luigi Bersani&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/silvio_berlusconi_1.html"&gt;Silvio Berlusconi&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/btREztUI3Ds" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Condanne, età, mandati: così i partiti si danno le regole]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Dopo la norma del governo sull' incandidabilit&agrave;, anche i partiti fissano i loro criteri per l'accesso al Parlamento. Monti promette paletti pi&ugrave; esigenti della legge, il Pd pu&ograve; vantare un codice etico, il Pdl dice no a over 65 e a chi ha tradito Berlusconi]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2010/03/09/montecitorio_aula_camera_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/politica/2013/01/08/criteri_candidablita_pd_pdl_monti_condannati_mandati.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Lombardia, Gdf in Regione: spese dell'opposizione nel mirino]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/LLjOHtw61XQ/lombardia_finanza_in_regione_spese_opposizione.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/cronaca/2013/01/08/lombardia_finanza_in_regione_spese_opposizione.html</guid>
+		<category>cronaca</category>
+		<pubDate>Tue, 08 Jan 2013 12:13:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/cronaca/2013/01/08/lombardia_finanza_in_regione_spese_opposizione.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/cronaca/2012/02/16/regione_lombardia_pirellone_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/cronaca/2013/01/08/lombardia_finanza_in_regione_spese_opposizione.html"&gt;Lombardia, Gdf in Regione: spese dell'opposizione nel mirino&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Su mandato della Procura di Milano, che aveva gi&amp;agrave; indagato esponenti di Pdl e Lega, le Fiamme gialle si sono recate al Consiglio regionale per acquisire documenti relativi alle spese sostenute dai gruppi di minoranza. L'Idv: "I pm fanno il loro dovere"&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/guardia_di_finanza_1.html"&gt;Guardia Di Finanza&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/regione_lombardia_1.html"&gt;Regione Lombardia&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/LLjOHtw61XQ" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Lombardia, Gdf in Regione: spese dell'opposizione nel mirino]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Su mandato della Procura di Milano, che aveva gi&agrave; indagato esponenti di Pdl e Lega, le Fiamme gialle si sono recate al Consiglio regionale per acquisire documenti relativi alle spese sostenute dai gruppi di minoranza. L'Idv: "I pm fanno il loro dovere"]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/cronaca/2012/02/16/regione_lombardia_pirellone_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/cronaca/2013/01/08/lombardia_finanza_in_regione_spese_opposizione.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Appalti per la polizia: in manette manager e funzionari]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/IQ7a7HU6Dqs/appalti_cen_napoli_polizia_arresti_per_manager_funzionari_prefetto.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/cronaca/2013/01/08/appalti_cen_napoli_polizia_arresti_per_manager_funzionari_prefetto.html</guid>
+		<category>cronaca</category>
+		<pubDate>Tue, 08 Jan 2013 10:24:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/cronaca/2013/01/08/appalti_cen_napoli_polizia_arresti_per_manager_funzionari_prefetto.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/cronaca/2013/01/08/polizia_generica_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/cronaca/2013/01/08/appalti_cen_napoli_polizia_arresti_per_manager_funzionari_prefetto.html"&gt;Appalti per la polizia: in manette manager e funzionari&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;L'indagine riguarda presunte irregolarit&amp;agrave; nelle procedure di trasferimento del Cen, il centro elettronico nazionale, a Napoli. Ai domiciliari anche il prefetto Fiorolli. In tutto sono 12 i provvedimenti eseguiti. Tra le aziende coinvolte la Elsag Datamat&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/cen_1.html"&gt;Cen&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/centro_elettronico_nazionale_1.html"&gt;Centro Elettronico Nazionale&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/napoli_1.html"&gt;Napoli&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/polizia_1.html"&gt;Polizia&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/IQ7a7HU6Dqs" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Appalti per la polizia: in manette manager e funzionari]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[L'indagine riguarda presunte irregolarit&agrave; nelle procedure di trasferimento del Cen, il centro elettronico nazionale, a Napoli. Ai domiciliari anche il prefetto Fiorolli. In tutto sono 12 i provvedimenti eseguiti. Tra le aziende coinvolte la Elsag Datamat]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/cronaca/2013/01/08/polizia_generica_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/cronaca/2013/01/08/appalti_cen_napoli_polizia_arresti_per_manager_funzionari_prefetto.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Disoccupazione giovanile record: senza lavoro il 37,1%]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/Zk86k668HcU/istat_disoccupazione_giovanile_record.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/economia/2013/01/08/istat_disoccupazione_giovanile_record.html</guid>
+		<category>economia</category>
+		<pubDate>Tue, 08 Jan 2013 10:23:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/economia/2013/01/08/istat_disoccupazione_giovanile_record.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/economia/2012/06/23/lavoro_crisi_disoccupazione_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/economia/2013/01/08/istat_disoccupazione_giovanile_record.html"&gt;Disoccupazione giovanile record: senza lavoro il 37,1%&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;A dirlo l'Istat che segnala a novembre un tasso di inattivi che si attesta complessivamente all'11,1%, in crescita dell'1,8% su base annua, con una diminuzione di 37mila unit&amp;agrave;&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/crisi_economica_1.html"&gt;Crisi Economica&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/disoccupazione_1.html"&gt;Disoccupazione&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/disoccupazione_giovanile_1.html"&gt;Disoccupazione Giovanile&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/istat_1.html"&gt;Istat&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/Zk86k668HcU" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Disoccupazione giovanile record: senza lavoro il 37,1%]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[A dirlo l'Istat che segnala a novembre un tasso di inattivi che si attesta complessivamente all'11,1%, in crescita dell'1,8% su base annua, con una diminuzione di 37mila unit&agrave;]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/economia/2012/06/23/lavoro_crisi_disoccupazione_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/economia/2013/01/08/istat_disoccupazione_giovanile_record.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Ces 2013, tv e smartphone a tutto schermo. Le foto]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/Iuk3P3JjN_A/ces_2013.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/economia/photogallery/2013/01/08/ces_2013.html</guid>
+		<category>economia</category>
+		<pubDate>Tue, 08 Jan 2013 10:19:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/economia/photogallery/2013/01/08/ces_2013.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/economia/2013/01/08/ces_2013_01_ces2013_3m_touch_schermo_getty_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/economia/photogallery/2013/01/08/ces_2013.html"&gt;Ces 2013, tv e smartphone a tutto schermo. Le foto&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Ha preso il via a Las Vegas la pi&amp;ugrave; grande fiera dell'elettronica mondiale. La tv ritorna protagonista con schermi sempre pi&amp;ugrave; grandi e fortemente integrati con i dispositivi mobili. Self-tracking e oggetti intelligenti gli altri filoni pi&amp;ugrave; battuti&lt;br /&gt;&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/ces_2013_1.html"&gt;Ces 2013&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/gadget_1.html"&gt;Gadget&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/las_vegas_1.html"&gt;Las Vegas&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/smartphone_1.html"&gt;Smartphone&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/tecnologie_1.html"&gt;Tecnologie&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/televisioni_1.html"&gt;Televisioni&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/Iuk3P3JjN_A" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Ces 2013, tv e smartphone a tutto schermo. Le foto]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Ha preso il via a Las Vegas la pi&ugrave; grande fiera dell'elettronica mondiale. La tv ritorna protagonista con schermi sempre pi&ugrave; grandi e fortemente integrati con i dispositivi mobili. Self-tracking e oggetti intelligenti gli altri filoni pi&ugrave; battuti<br />]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/economia/2013/01/08/ces_2013_01_ces2013_3m_touch_schermo_getty_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/economia/photogallery/2013/01/08/ces_2013.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Fisco: l'Imu fa crescere le entrate, cala gettito dell'Iva]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/goDjuk3PHR8/fisco_entrate_imu_iva_evasione_befera_redditometro.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/economia/2013/01/08/fisco_entrate_imu_iva_evasione_befera_redditometro.html</guid>
+		<category>economia</category>
+		<pubDate>Tue, 08 Jan 2013 08:38:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/economia/2013/01/08/fisco_entrate_imu_iva_evasione_befera_redditometro.html"&gt;Fisco: l'Imu fa crescere le entrate, cala gettito dell'Iva&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;L'imposta sulla casa ha portato quasi 10 miliardi di euro solo nella prima rata di giugno. Calano gli introiti legati all'imposta sui consumi, pari all'1,8% in 11 mesi. Flessione anche nel comparto giochi. Intanto Befera difende il redditometro&lt;br /&gt;&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/attilio_befera_1.html"&gt;Attilio Befera&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/entrate_fiscali_1.html"&gt;Entrate Fiscali&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/fisco_1.html"&gt;Fisco&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/imu_1.html"&gt;Imu&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/iva_1.html"&gt;Iva&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/redditometro_1.html"&gt;Redditometro&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/goDjuk3PHR8" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Fisco: l'Imu fa crescere le entrate, cala gettito dell'Iva]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[L'imposta sulla casa ha portato quasi 10 miliardi di euro solo nella prima rata di giugno. Calano gli introiti legati all'imposta sui consumi, pari all'1,8% in 11 mesi. Flessione anche nel comparto giochi. Intanto Befera difende il redditometro<br />]]></skyit:article_summary>	
+	<feedburner:origLink>http://tg24.sky.it/tg24/economia/2013/01/08/fisco_entrate_imu_iva_evasione_befera_redditometro.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Patto del Nord Pdl-Lega, ma manca l'accordo sul premier]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/0cRjM86Yvck/intesa_lega_pdl_maroni_berlusconi_rassegna_stampa.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/politica/2013/01/08/intesa_lega_pdl_maroni_berlusconi_rassegna_stampa.html</guid>
+		<category>politica</category>
+		<pubDate>Tue, 08 Jan 2013 07:51:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/08/intesa_lega_pdl_maroni_berlusconi_rassegna_stampa.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2011/09/14/manovra_berlusconi_maroni_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/08/intesa_lega_pdl_maroni_berlusconi_rassegna_stampa.html"&gt;Patto del Nord Pdl-Lega, ma manca l'accordo sul premier&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Il Carroccio punta su Tremonti, ma per Berlusconi l'ex ministro "non fa squadra". Sui quotidiani commenti e analisi sull'intesa. Il &lt;em&gt;Corriere della Sera&lt;/em&gt;: "Tenuti insieme dalla paura". &lt;em&gt;Libero&lt;/em&gt;: "Ora Bersani rischia di perdere". RASSEGNA STAMPA&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/elezioni_2013_1.html"&gt;Elezioni 2013&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/elezioni_politiche_1.html"&gt;Elezioni Politiche&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/lega_nord_1.html"&gt;Lega Nord&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/pdl_1.html"&gt;Pdl&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/roberto_maroni_1.html"&gt;Roberto Maroni&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/silvio_berlusconi_1.html"&gt;Silvio Berlusconi&lt;/a&gt;,
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/0cRjM86Yvck" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Patto del Nord Pdl-Lega, ma manca l'accordo sul premier]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Il Carroccio punta su Tremonti, ma per Berlusconi l'ex ministro "non fa squadra". Sui quotidiani commenti e analisi sull'intesa. Il <em>Corriere della Sera</em>: "Tenuti insieme dalla paura". <em>Libero</em>: "Ora Bersani rischia di perdere". RASSEGNA STAMPA]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2011/09/14/manovra_berlusconi_maroni_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/politica/2013/01/08/intesa_lega_pdl_maroni_berlusconi_rassegna_stampa.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Los Roques, spunta l'ipotesi di un fulmine]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/qFUTkg-rrDo/missoni_aereo_scomparso_los_roques_ricerche_fulmini.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/mondo/2013/01/07/missoni_aereo_scomparso_los_roques_ricerche_fulmini.html</guid>
+		<category>mondo</category>
+		<pubDate>Mon, 07 Jan 2013 22:41:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/mondo/2013/01/07/missoni_aereo_scomparso_los_roques_ricerche_fulmini.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/mondo/2013/01/07/ricerche_missoni_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/mondo/2013/01/07/missoni_aereo_scomparso_los_roques_ricerche_fulmini.html"&gt;Los Roques, spunta l'ipotesi di un fulmine&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Continuano le ricerche del bimotore scomparso nel mar dei Caraibi con a bordo Vittorio Missoni e altri tre italiani. "Non ci arrenderemo" assicura la sorella. Terzi: grande apprensione, continui contatti con le autorit&amp;agrave;&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/giuseppe_scalvenzi_1.html"&gt;Giuseppe Scalvenzi&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/los_roques_1.html"&gt;Los Roques&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/rosa_apostoli_1.html"&gt;Rosa Apostoli&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/sumirago_1.html"&gt;Sumirago&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/venezuela_1.html"&gt;Venezuela&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/vittorio_missoni_1.html"&gt;Vittorio Missoni&lt;/a&gt;
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/qFUTkg-rrDo" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Los Roques, spunta l'ipotesi di un fulmine]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Continuano le ricerche del bimotore scomparso nel mar dei Caraibi con a bordo Vittorio Missoni e altri tre italiani. "Non ci arrenderemo" assicura la sorella. Terzi: grande apprensione, continui contatti con le autorit&agrave;]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/mondo/2013/01/07/ricerche_missoni_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/mondo/2013/01/07/missoni_aereo_scomparso_los_roques_ricerche_fulmini.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Lega, l'accordo col Pdl divide la base]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/7UTJSOFLPkM/lega_pdl_accordo_elezioni_maroni_berlusconi_commenti_facebook_twitter_internet.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/tg24/politica/2013/01/07/lega_pdl_accordo_elezioni_maroni_berlusconi_commenti_facebook_twitter_internet.html</guid>
+		<category>politica</category>
+		<pubDate>Mon, 07 Jan 2013 22:20:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/07/lega_pdl_accordo_elezioni_maroni_berlusconi_commenti_facebook_twitter_internet.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2013/01/07/facebook_lega_nord_maroni_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/tg24/politica/2013/01/07/lega_pdl_accordo_elezioni_maroni_berlusconi_commenti_facebook_twitter_internet.html"&gt;Lega, l'accordo col Pdl divide la base&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;"Ma non si possono fare altre scelte?" si chiedono su Facebook e Twitter alcuni elettori del Carroccio, che minacciano di non voler pi&amp;ugrave; sostenere il partito. "E' l'unica via d'uscita per vincere in Lombardia" rispondono altri&lt;br /&gt;&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/elezioni_2013_1.html"&gt;Elezioni 2013&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/elezioni_politiche_1.html"&gt;Elezioni Politiche&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/elezioni_regionali_1.html"&gt;Elezioni Regionali&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/facebook_1.html"&gt;Facebook&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/lega_nord_1.html"&gt;Lega Nord&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/matteo_salvini_1.html"&gt;Matteo Salvini&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/politica_web_1.html"&gt;Politica Web&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/regionali_lombardia_2013_1.html"&gt;Regionali Lombardia 2013&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/roberto_maroni_1.html"&gt;Roberto Maroni&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/silvio_berlusconi_1.html"&gt;Silvio Berlusconi&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/twitter_1.html"&gt;Twitter&lt;/a&gt;
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/7UTJSOFLPkM" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Lega, l'accordo col Pdl divide la base]]></skyit:article_title>
+		<skyit:article_summary><![CDATA["Ma non si possono fare altre scelte?" si chiedono su Facebook e Twitter alcuni elettori del Carroccio, che minacciano di non voler pi&ugrave; sostenere il partito. "E' l'unica via d'uscita per vincere in Lombardia" rispondono altri<br />]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/politica/2013/01/07/facebook_lega_nord_maroni_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/tg24/politica/2013/01/07/lega_pdl_accordo_elezioni_maroni_berlusconi_commenti_facebook_twitter_internet.html</feedburner:origLink></item>
+	<item>
+		<title><![CDATA[Maroni e Berlusconi: la verità sulla cena dell'accordo]]></title>
+		<link>http://feedproxy.google.com/~r/SkyitTg24/~3/vG9F3XXvWp0/07_01_2013_terza_stagione_puntata_72_bis_sky_uno_politici_social_network_trasformazione_monti_accordo_maroni_berlusconi.html</link>
+		<guid isPermaLink="false">http://tg24.sky.it/glisgommati/07_01_2013_terza_stagione_puntata_72_bis_sky_uno_politici_social_network_trasformazione_monti_accordo_maroni_berlusconi.html</guid>
+		<category>glisgommati</category>
+		<pubDate>Mon, 07 Jan 2013 22:15:00 +0100</pubDate>
+		<description>&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+			&lt;tr&gt;
+			&lt;td&gt;&lt;a href="http://tg24.sky.it/glisgommati/07_01_2013_terza_stagione_puntata_72_bis_sky_uno_politici_social_network_trasformazione_monti_accordo_maroni_berlusconi.html"&gt;&lt;img src="http://static.sky.it/static/contentimages/resized/sezioni/tg24/glisgommati/2013/01/07/gli_sgommati_maroni_berlusconi_113x70.jpg" alt="" border="0"/&gt;&lt;/a&gt;&lt;/td&gt;
+			&lt;td width="15"&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p style="color:#FF6702;font-size:14px;font-weight:bold;margin:0pt;padding:0pt;"&gt;&lt;a href="http://tg24.sky.it/glisgommati/07_01_2013_terza_stagione_puntata_72_bis_sky_uno_politici_social_network_trasformazione_monti_accordo_maroni_berlusconi.html"&gt;Maroni e Berlusconi: la verit&amp;agrave; sulla cena dell'accordo&lt;/a&gt;&lt;/p&gt;
+			&lt;p style="color:#666666;font-size:13px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Gli Sgommati, nella puntata numero 72, mostrano la cena durante la quale &amp;egrave; stato siglato l'accordo elettorale tra i due capi di partito. Ecco, poi, la trasformazione di Monti. E i politici si scambiano consigli nell'internet point Montecitorio&lt;/p&gt;
+			&lt;div&gt;			
+				&lt;span style="color:#FE9900;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;Parole chiave: &lt;/span&gt;			
+				&lt;span style="color:#0099C9;font-size:12px;font-weight:normal;margin:0pt;padding:0pt;"&gt;
+				&lt;a href="http://tg24.sky.it/tag/tg24/antonio_di_pietro_1.html"&gt;Antonio Di Pietro&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/francois_hollande_1.html"&gt;Francois Hollande&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/giorgia_meloni_1.html"&gt;Giorgia Meloni&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/giorgio_napolitano_1.html"&gt;Giorgio Napolitano&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/ignazio_la_russa_1.html"&gt;Ignazio La Russa&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/luigi_de_magistris_1.html"&gt;Luigi De Magistris&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/mario_monti_1.html"&gt;Mario Monti&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/matteo_renzi_1.html"&gt;Matteo Renzi&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/niccolo_ghedini_1.html"&gt;Niccol&amp;ograve; Ghedini&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/nichi_vendola_1.html"&gt;Nichi Vendola&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/papa_benedetto_xvi_1.html"&gt;Papa Benedetto Xvi&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/pier_ferdinando_casini_1.html"&gt;Pier Ferdinando Casini&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/pier_luigi_bersani_1.html"&gt;Pier Luigi Bersani&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/roberto_maroni_1.html"&gt;Roberto Maroni&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/silvio_berlusconi_1.html"&gt;Silvio Berlusconi&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/sky_uno_1.html"&gt;Sky Uno&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/terza_stagione_1.html"&gt;Terza Stagione&lt;/a&gt;,
+				&lt;a href="http://tg24.sky.it/tag/tg24/vladimir_putin_1.html"&gt;Vladimir Putin&lt;/a&gt;
+				&lt;/span&gt;	
+			&lt;/div&gt;	
+			&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/SkyitTg24/~4/vG9F3XXvWp0" height="1" width="1"/&gt;</description>
+		<skyit:article_title><![CDATA[Maroni e Berlusconi: la verità sulla cena dell'accordo]]></skyit:article_title>
+		<skyit:article_summary><![CDATA[Gli Sgommati, nella puntata numero 72, mostrano la cena durante la quale &egrave; stato siglato l'accordo elettorale tra i due capi di partito. Ecco, poi, la trasformazione di Monti. E i politici si scambiano consigli nell'internet point Montecitorio]]></skyit:article_summary>	
+		<enclosure url="http://static.sky.it/static/contentimages/resized/sezioni/tg24/glisgommati/2013/01/07/gli_sgommati_maroni_berlusconi_113x70.jpg" length="10000" type="image/jpeg" />
+	<feedburner:origLink>http://tg24.sky.it/glisgommati/07_01_2013_terza_stagione_puntata_72_bis_sky_uno_politici_social_network_trasformazione_monti_accordo_maroni_berlusconi.html</feedburner:origLink></item>
+</channel>
+</rss>
